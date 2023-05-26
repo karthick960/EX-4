@@ -54,7 +54,8 @@ while True:
 
 # SERVER OUTPUT :
 
-![Uploading Screenshot from 2023-05-26 21-57-22.png…]()
+![Screenshot from 2023-05-26 21-57-22](https://github.com/karthick960/EX-4/assets/121215938/5f318046-4461-4601-acf0-d8ede060c2df)
+
 
 
 # RESULT:
